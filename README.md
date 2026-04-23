@@ -95,13 +95,13 @@ android/app/src/main/res/values/styles.xml
 📷 **Captura de pantalla:**
 
 
-<p align="center">[LA APLICACIóN MóVIL CON EL ICON Y EL SPLASH SCREEN]</p>
+<p align="center">[LA APLICACION MOVIL CON EL ICON Y EL SPLASH SCREEN]</p>
 
 
 <p align="center">
   
   <img width="720" height="304" src="https://github.com/user-attachments/assets/114ab92b-483b-49a2-ae66-a3935a2d55e1" />
-  <br><br/>
+  
 </p>
 
 <p align="center">
