@@ -147,5 +147,3 @@ La implementación del Splash Screen en Ionic requiere:
 * Ajustes nativos en Android
 
 ---
-
-Si quieres, puedo adaptarlo a formato **IEEE / informe académico** o agregar capturas de pantalla para que se vea más profesional en GitHub.
