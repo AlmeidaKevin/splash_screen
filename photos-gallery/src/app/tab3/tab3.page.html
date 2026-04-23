@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Galería</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+
+  <ion-grid>
+    <ion-row>
+      @for (photo of photoService.photos; track photo) {
+        <ion-col size="6">
+          <div class="img-container" (click)="openPhoto(photo)">
+            <ion-img [src]="photo.webviewPath"></ion-img>
+            <div class="img-name">{{ photo.filepath }}</div>
+          </div>
+        </ion-col>
+      }
+    </ion-row>
+  </ion-grid>
+
+</ion-content>

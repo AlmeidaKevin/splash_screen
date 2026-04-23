@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Foto</ion-title>
+    <ion-buttons slot="end">
+      <ion-button (click)="close()">Cerrar</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+
+  <img [src]="photo.webviewPath"
+       style="width:100%; border-radius:12px;" />
+
+  <p style="margin-top:12px; text-align:center; font-size:14px;">
+    {{ photo.filepath }}
+  </p>
+
+</ion-content>
