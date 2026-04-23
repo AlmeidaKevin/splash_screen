@@ -145,5 +145,3 @@ La implementación del Splash Screen en Ionic requiere:
 * Generación de assets
 * Sincronización con Capacitor
 * Ajustes nativos en Android
-
----
