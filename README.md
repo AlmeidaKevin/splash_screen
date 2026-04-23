@@ -55,9 +55,8 @@ resources/
 
 <p align="center">
   
-  <img width="45" height="500" src="https://github.com/user-attachments/assets/532bf206-45a9-423b-9567-0e185408e1fc" />
-  <br><br/>
-  <img width="45" height="500" src="https://github.com/user-attachments/assets/092fb705-14b3-41f0-803b-ff53f56500b8" />
+  <img width="45%" height="500" src="https://github.com/user-attachments/assets/532bf206-45a9-423b-9567-0e185408e1fc" />
+  <img width="45%" height="500" src="https://github.com/user-attachments/assets/092fb705-14b3-41f0-803b-ff53f56500b8" />
 
 </p>
 
@@ -108,9 +107,8 @@ android/app/src/main/res/values/styles.xml
 <p align="center">
   
   
-  <img width="45" height="800" src="https://github.com/user-attachments/assets/cc4b4651-9f63-4ec9-88de-6235f7c991f3" />
-  <br><br/>
-  <img width="45" height="800" src="https://github.com/user-attachments/assets/723c65ea-34b8-451e-8acb-d4068532f583" />
+  <img width="45%" height="800" src="https://github.com/user-attachments/assets/cc4b4651-9f63-4ec9-88de-6235f7c991f3" />
+  <img width="45%" height="800" src="https://github.com/user-attachments/assets/723c65ea-34b8-451e-8acb-d4068532f583" />
 
 
 </p>
